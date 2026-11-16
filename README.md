@@ -39,17 +39,4 @@ Every project features a dedicated **"How to Explain This Project"** callout box
 
 ---
 
-## 🚀 How to Run Locally
 
-### Option 1: Direct File Open (Zero Setup)
-Open File Explorer at:
-`C:\Users\gohil\.gemini\antigravity\scratch\sumit-portfolio`
-And double-click **`index.html`** to open it in Chrome, Edge, or Brave.
-
-### Option 2: Local Python Server
-In PowerShell:
-```powershell
-cd C:\Users\gohil\.gemini\antigravity\scratch\sumit-portfolio
-python -m http.server 8000
-```
-Then visit `http://localhost:8000` in your web browser.
